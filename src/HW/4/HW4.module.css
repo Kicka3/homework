@@ -1,4 +1,6 @@
 .chetNechet {
   background-color: #1f1f1f;
-  color: #8a8a8a;
+  /*color: #8a8a8a;*/
+  color: red;
+  text-decoration: line-through;
 }
